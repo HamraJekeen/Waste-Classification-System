@@ -1,2 +1,2 @@
 # Waste-Classification-System
-The data folder is not upload due to folder size
+The data folder (dataset folder) is not upload due to folder size
